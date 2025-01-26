@@ -1,7 +1,7 @@
 # Agentic Branding
 
 ## Introduction
-The **Agentic Branding** repository is dedicated to creating the visual identity and public-facing materials for the [Agentic Network](https://github.com/RWN-MD/Agentic-Network) project. This repository ensures that the `.agent` TLD is presented consistently and professionally across all channels.
+The **Agentic Branding** repository is dedicated to creating the visual identity and public-facing materials for the [Agentic Network](https://github.com/RWN-MD/Agentic-Network.git) project. This repository ensures that the `.agent` TLD is presented consistently and professionally across all channels.
 
 ## Purpose
 The `.agent` TLD represents the future of agentic communication, and its branding must reflect innovation, trust, and security. This repository focuses on:
@@ -22,7 +22,7 @@ The `.agent` TLD represents the future of agentic communication, and its brandin
 - **`/docs`**: Brand guidelines and style guides.
 
 ## Contribution
-We welcome creative contributions to enhance the `.agent` brand. For project-wide guidelines, please refer to the [Agentic Network](https://github.com/RWN-MD/Agentic-Network) repository.
+We welcome creative contributions to enhance the `.agent` brand. For project-wide guidelines, please refer to the [Agentic Network](https://github.com/RWN-MD/Agentic-Network.git) repository.
 
 ---
-*Part of the [Agentic Network](https://github.com/RWN-MD/Agentic-Network) project.*
+*Part of the [Agentic Network](https://github.com/RWN-MD/Agentic-Network.git) project.*
